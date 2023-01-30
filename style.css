@@ -1,0 +1,11 @@
+.title {
+    color:lawngreen;
+    font-size:19px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight:300px;
+}
+p {
+    font-family:cursive;
+    font-weight:100px;
+    color:black;
+}
